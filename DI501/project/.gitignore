@@ -1,0 +1,13 @@
+# ignore related papers
+/papers
+
+# ignore text files except requirements
+*.txt
+!requirements.txt
+!data/data.txt
+
+# ignore the lecture notes
+/lectures
+
+# ignore the large datasets
+/data/*.csv
